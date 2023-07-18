@@ -1,0 +1,20 @@
+2023-07-17 18:29:40.273 [info] 
+
+
+
+
+2023-07-17 18:29:40.435 [info] Extension host agent started.
+2023-07-17 18:29:40.899 [info] [127.0.0.1][5138b682][ManagementConnection] New connection established.
+2023-07-17 18:29:43.663 [info] [127.0.0.1][3f2c1a3e][ExtensionHostConnection] New connection established.
+2023-07-17 18:29:43.931 [info] [127.0.0.1][3f2c1a3e][ExtensionHostConnection] <408> Launched Extension Host Process.
+2023-07-17 18:30:49.764 [info] Getting Manifest... ritwickdey.liveserver
+2023-07-17 18:30:49.981 [info] Installing extension: ritwickdey.liveserver
+2023-07-17 18:31:02.791 [info] Extension signature is verified: ritwickdey.liveserver
+2023-07-17 18:31:21.926 [info] Extracted extension to /home/diego/.vscode-server/extensions/.dc1d95c3-350c-43ee-9016-168807bf4f9d: ritwickdey.liveserver
+2023-07-17 18:31:21.958 [info] Renamed to /home/diego/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-07-17 18:31:21.964 [info] Extracting extension completed. ritwickdey.liveserver
+2023-07-17 18:31:21.987 [info] Extension installed successfully: ritwickdey.liveserver
+2023-07-17 18:50:52.301 [info] [127.0.0.1][5138b682][ManagementConnection] The client has reconnected.
+2023-07-17 18:50:52.943 [info] [127.0.0.1][3f2c1a3e][ExtensionHostConnection] The client has reconnected.
+2023-07-17 18:56:44.800 [info] [127.0.0.1][5138b682][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-17 18:56:45.414 [info] [127.0.0.1][3f2c1a3e][ExtensionHostConnection] <408> Extension Host Process exited with code: 0, signal: null.

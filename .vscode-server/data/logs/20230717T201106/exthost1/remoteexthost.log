@@ -1,0 +1,14 @@
+2023-07-17 20:11:16.181 [info] Extension host with pid 2321 started
+2023-07-17 20:11:16.274 [info] Lock '/home/diego/.vscode-server/data/User/workspaceStorage/fadc396413f633c7d67c3e702c3816ad/vscode.lock': Lock acquired.
+2023-07-17 20:11:16.466 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-17 20:11:16.475 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-17 20:11:17.639 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-17 20:11:18.027 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-17 20:11:18.028 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-17 20:11:18.852 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onCommand:extension.liveServer.goOnline'
+2023-07-17 20:11:19.832 [info] Eager extensions activated
+2023-07-17 20:11:19.833 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-17 20:11:19.835 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-17 20:12:20.984 [info] Extension host terminating: received terminate message from renderer
+2023-07-17 20:12:21.192 [info] Lock '/home/diego/.vscode-server/data/User/workspaceStorage/fadc396413f633c7d67c3e702c3816ad/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-17 20:12:22.006 [info] Extension host with pid 2321 exiting with code 0

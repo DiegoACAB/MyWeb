@@ -1,0 +1,12 @@
+2023-07-17 20:35:00.455 [info] 
+
+
+
+
+2023-07-17 20:35:00.545 [info] Extension host agent started.
+2023-07-17 20:35:00.891 [info] [127.0.0.1][e867a5b1][ManagementConnection] New connection established.
+2023-07-17 20:35:01.613 [info] Deleted from disk ritwickdey.liveserver /home/diego/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-07-17 20:35:02.211 [info] [127.0.0.1][e36ad85c][ExtensionHostConnection] New connection established.
+2023-07-17 20:35:02.267 [info] [127.0.0.1][e36ad85c][ExtensionHostConnection] <2885> Launched Extension Host Process.
+2023-07-17 20:37:47.554 [info] [127.0.0.1][e867a5b1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-17 20:37:48.034 [info] [127.0.0.1][e36ad85c][ExtensionHostConnection] <2885> Extension Host Process exited with code: 0, signal: null.
